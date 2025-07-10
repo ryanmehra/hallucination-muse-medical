@@ -1,1 +1,1 @@
-# hallucination-muse-medical
+This repository contributes to a research study investigating how deliberate LLM hallucinations, when properly constrained, can enhance biomedical creativity across hypothesis generation, molecular design, and speculative prototyping.
